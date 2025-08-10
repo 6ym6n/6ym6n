@@ -53,6 +53,9 @@
 
 ## 📂 Projects
 
+🔹 **[paraMed Analysis](https://github.com/6ym6n/paraMed_analysis)**  
+*Data pipeline for scraping, cleaning, and analyzing Moroccan e-commerce parapharmaceutical products.*
+
 🔹 **[Predictive Modeling of Customer Vehicle Preferences](https://github.com/6ym6n/Predictive-Modeling-of-Customer-Vehicle-Preferences)**  
 *Analyzed customer profiles to recommend the most suitable vehicle type using SVM, Random Forest, and a Tkinter GUI.*
 
@@ -64,9 +67,6 @@
 
 🔹 **[PFE Blockchain Voting System](https://github.com/6ym6n/PFE_BLOCKCHAIN)**  
 *Electronic voting platform based on Ethereum blockchain for secure and transparent elections.*
-
-🔹 **[paraMed Analysis](https://github.com/6ym6n/paraMed_analysis)**  
-*Data pipeline for scraping, cleaning, and analyzing Moroccan e-commerce parapharmaceutical products.*
 
 ---
 
