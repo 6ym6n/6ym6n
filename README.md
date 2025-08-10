@@ -15,15 +15,6 @@
 
 ---
 
-## 🎓 Education
-- **Master’s in Data Science for Smart Manufacturing** – ENSAM Meknès *(2024–2026)*  
-- **BSc in Software Engineering** – Université Ibn Zohr *(2021–2023)*  
-- **DEUG in Mathematics & Computer Science** – Université Ibn Zohr *(2021–2023)*  
-- **Baccalauréat libre – Mathématiques B** *(2021)*  
-- **Baccalauréat – Sciences et Technologies Mécaniques** *(2020)*  
-
----
-
 ## 🛠 Technical Skills
 
 **Programming & Data Science**  
@@ -76,12 +67,6 @@
 
 🔹 **[paraMed Analysis](https://github.com/6ym6n/paraMed_analysis)**  
 *Data pipeline for scraping, cleaning, and analyzing Moroccan e-commerce parapharmaceutical products.*
-
----
-
-## 💼 Internships
-- **Digitalization Improvement – Nesty SARL** *(2024)*  
-  *Audited and automated administrative tasks, integrated digital tools, and supported the company’s digital transformation.*
 
 ---
 
