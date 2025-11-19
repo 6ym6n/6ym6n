@@ -62,7 +62,7 @@
 🔹 **[Augmented Digital Twin for Predictive Maintenance](https://github.com/6ym6n/digital-twin-genai)**  
 *Developed a digital twin (Streamlit) to generate automatic text diagnostics from IoT sensor data using a local Generative AI model (DistilGPT2).*  
 
-🔹 **[Automated Biomedical Knowledge Graph](https://github.com/6ym6n/biomed-kg)**  
+🔹 **[Automated Biomedical Knowledge Graph](https://github.com/6ym6n/BIOMED_KG)**  
 *Built an automated pipeline to transform unstructured biomedical texts (PubMed) into a queryable Knowledge Graph. Utilized NER, UMLS, ScispaCy, and deployed on Neo4j.*  
 
 🔹 **[paraMed Analysis](https://github.com/6ym6n/paraMed_analysis)**  
