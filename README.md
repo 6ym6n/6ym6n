@@ -59,8 +59,8 @@
 
 ## 📂 Projects
 
-🔹 **[Augmented Digital Twin for Predictive Maintenance](https://github.com/6ym6n/digital-twin-genai)**  
-*Developed a digital twin (Streamlit) to generate automatic text diagnostics from IoT sensor data using a local Generative AI model (DistilGPT2).*  
+🔹 **[Augmented Digital Twin for Predictive Maintenance](https://github.com/6ym6n/digital_twin)**  
+*Developed a digital twin  to generate automatic text diagnostics from IoT sensor data using a Generative AI model.*  
 
 🔹 **[Automated Biomedical Knowledge Graph](https://github.com/6ym6n/BIOMED_KG)**  
 *Built an automated pipeline to transform unstructured biomedical texts (PubMed) into a queryable Knowledge Graph. Utilized NER, UMLS, ScispaCy, and deployed on Neo4j.*  
