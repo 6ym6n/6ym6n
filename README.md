@@ -1,84 +1,71 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Ayman Naaimi — Give me the hard problem. I'll figure out the rest." width="100%" />
+  <img src="./assets/hero.svg" alt="Ayman Naaimi" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.dakimmo.ma/">Something live</a> &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aymannaaimi/">Find me on LinkedIn</a> &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:aymannaaimi@gmail.com">Start a conversation</a>
+  <a href="https://www.linkedin.com/in/aymannaaimi/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:aymannaaimi@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/6ym6n">GitHub</a>
 </p>
 
 <br>
 
-## The interesting part is figuring it out.
+## About me
 
-In the age of AI, the tools aren't the hard part. **Knowing what to build, finding a way through the complexity, and making it real is.**
+I'm **Ayman Naaimi**. I build digital products, from early ideas to software that people can actually use.
 
-I'm Ayman. I like the problems that don't come with instructions: the ambitious idea, the messy operation, the product with too many moving parts.
+My work spans SaaS products, AI-powered experiences, internal business systems, websites, automation, and data. I enjoy being involved in the whole process: understanding what needs to exist, designing how it should work, and building the parts that make it real.
 
-I go wherever the problem takes me — from the first sketch and user experience to the systems behind it and the last detail before launch.
-
-**Less “what do you use?” More “can you make this happen?”**
+I don't think of my work as one narrow category. Every project comes with a different set of problems, and figuring out how the pieces fit together is what keeps it interesting.
 
 <br>
 
 ## Selected work
 
-*Some of my best work lives in private repositories. These are the stories, not the source code.*
+### 01 — Dakimmo
+**Real estate, rethought as software.**
 
-### 01 / Dakimmo
-**Building around how real-estate businesses actually work.**
+A real-estate product ecosystem that includes web experiences, business workflows, supporting services, and tools for generating documents.
 
-A real-estate software ecosystem spanning the public product experience, business workflows, supporting services, and document-generation tools.
+[Website](https://www.dakimmo.ma/)
 
-[See the live website](https://www.dakimmo.ma/)
+### 02 — StudioCall
+**AI voice, connected to real business workflows.**
 
-### 02 / StudioCall
-**What if phone calls could become intelligent workflows?**
+An AI voice-agent SaaS project exploring intelligent phone calls, telephony integrations, and experiences for clients and distributors. Currently in prototype development.
 
-An AI voice-agent platform for business calling and telephony integrations. Built around the challenge of turning a compelling voice demo into a coherent product. *In prototype development.*
+### 03 — K&A Member Portal
+**One place for clients, documents, and operations.**
 
-### 03 / K&A Member Portal
-**A complex client relationship, made simple to manage.**
+A private client-and-staff platform for property dossiers, protected documents, invitations, access controls, and business workflows.
 
-A private client-and-team platform for property dossiers, protected documents, permissions, invitations, and day-to-day operations.
+### 04 — Dakiy CRM
+**The software behind day-to-day operations.**
 
-### 04 / Dakiy CRM
-**The operational backbone behind the business.**
-
-An internal platform connecting leads, opportunities, quotes, invoicing, subscriptions, and the work in between.
-
-### Beyond those four
-Websites. Internal products. Data-heavy workflows. Automation. Integrations. Unusual one-off problems that didn't fit into a ready-made product.
-
-The point isn't the category. **It's taking ownership of the whole problem.**
+An internal platform bringing together prospects, sales pipelines, quotes, invoices, subscriptions, and related workflows.
 
 <br>
+
+### Other things I've worked on
+
+Business websites, custom tools, integrations, scraping, data pipelines, dashboards, and automations. Different projects, different needs — often built end to end.
 
 <details>
-<summary><strong>Earlier work: where my systems thinking came from</strong></summary>
+<summary><strong>Earlier data and AI projects</strong></summary>
 
 <br>
 
-Before focusing on commercial products, I worked extensively on applied AI and data problems:
+My background includes Data Science for Smart Manufacturing at ENSAM Meknès, along with work in applied machine learning and data systems.
 
-- [Digital twin for predictive maintenance](https://github.com/6ym6n/digital_twin) — generating useful diagnostics from sensor data.
-- [Biomedical knowledge graph](https://github.com/6ym6n/BIOMED_KG) — turning unstructured research into connected information.
-- [Morocco tourism analytics](https://github.com/6ym6n/morocco-tourism-analytics) — uncovering patterns in messy, real-world data.
-- [ML-AHP](https://github.com/6ym6n/ML-AHP) — building decision support for complex tradeoffs.
+- [Digital twin for predictive maintenance](https://github.com/6ym6n/digital_twin) — sensor-driven diagnostics and generative AI.
+- [Biomedical knowledge graph](https://github.com/6ym6n/BIOMED_KG) — transforming biomedical text into connected, queryable information.
+- [Morocco tourism analytics](https://github.com/6ym6n/morocco-tourism-analytics) — analyzing tourism trends and sentiment.
+- [ML-AHP](https://github.com/6ym6n/ML-AHP) — decision support combining machine learning and multi-criteria analysis.
 
 </details>
 
 ---
 
-<div align="center">
-
-### Got a difficult one?
-
-Tell me what you're trying to make happen.
-
-**[Let's talk](mailto:aymannaaimi@gmail.com)** &nbsp;&nbsp; / &nbsp;&nbsp; **[LinkedIn](https://www.linkedin.com/in/aymannaaimi/)**
-
-<sub>AYMAN NAAIMI · 6YM6N</sub>
-
-</div>
+<p align="center">
+  <sub>AYMAN NAAIMI / 6YM6N</sub>
+</p>
