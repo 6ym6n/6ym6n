@@ -1,121 +1,71 @@
-<h1 align="center">Hi, I'm Ayman Naaimi 👋</h1>
+<p align="center">
+  <img src="./assets/hero.svg" alt="Ayman Naaimi" width="100%" />
+</p>
 
 <p align="center">
-<em>Master's student in Data Science for Smart Manufacturing • Machine Learning • Knowledge Graphs</em>
+  <a href="https://www.linkedin.com/in/aymannaaimi/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:aymannaaimi@gmail.com">Email</a> &nbsp; / &nbsp;
+  <a href="https://github.com/6ym6n">GitHub</a>
 </p>
 
------
+<br>
 
-## 🚀 About Me
+## About me
 
-- 🎓 **Master’s in Data Science for Smart Manufacturing** @ ENSAM Meknès  
-- 📍 Based in Agadir, Morocco  
-- 💡 Passionate about **Predictive Maintenance**, **Knowledge Graphs (KGs)**, **NLP (Transformers)**, and **AI for Smart Manufacturing**  
-- 🛠 Experienced in end-to-end data pipelines, from data extraction to building **Graph Databases (Neo4j)** and **BI dashboards**  
-- 🌱 Currently focusing on **Generative AI applications**, **Big Data systems (Kafka, Hadoop)**, and **Graph-based solutions**
+I'm **Ayman Naaimi**. I build digital products, from early ideas to software that people can actually use.
 
------
+My work spans SaaS products, AI-powered experiences, internal business systems, websites, automation, and data. I enjoy being involved in the whole process: understanding what needs to exist, designing how it should work, and building the parts that make it real.
 
-## 🛠 Technical Skills
+I don't think of my work as one narrow category. Every project comes with a different set of problems, and figuring out how the pieces fit together is what keeps it interesting.
 
-**Data Science & Machine Learning**  
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciKit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-</p>
+<br>
 
-**Data Visualization & BI**  
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge"/>
-</p>
+## Selected work
 
-**Databases & Big Data**  
-<p>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-</p>
+### 01 — Dakimmo
+**Real estate, rethought as software.**
 
-**Software & Web Development**  
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+A real-estate product ecosystem that includes web experiences, business workflows, supporting services, and tools for generating documents.
 
------
+[Website](https://www.dakimmo.ma/)
 
-## 📂 Projects
+### 02 — StudioCall
+**AI voice, connected to real business workflows.**
 
-🔹 **[Augmented Digital Twin for Predictive Maintenance](https://github.com/6ym6n/digital_twin)**  
-*Developed a digital twin  to generate automatic text diagnostics from IoT sensor data using a Generative AI model.*  
+An AI voice-agent SaaS project exploring intelligent phone calls, telephony integrations, and experiences for clients and distributors. Currently in prototype development.
 
-🔹 **[Automated Biomedical Knowledge Graph](https://github.com/6ym6n/BIOMED_KG)**  
-*Built an automated pipeline to transform unstructured biomedical texts (PubMed) into a queryable Knowledge Graph. Utilized NER, UMLS, ScispaCy, and deployed on Neo4j.*  
+### 03 — K&A Member Portal
+**One place for clients, documents, and operations.**
 
-🔹 **[paraMed Analysis](https://github.com/6ym6n/paraMed_analysis)**  
-*Data pipeline for scraping, cleaning, and analyzing Moroccan e-commerce parapharmaceutical products.*  
+A private client-and-staff platform for property dossiers, protected documents, invitations, access controls, and business workflows.
 
-🔹 **[Predictive Modeling of Customer Vehicle Preferences](https://github.com/6ym6n/Predictive-Modeling-of-Customer-Vehicle-Preferences)**  
-*Analyzed customer profiles to recommend the most suitable vehicle type using SVM, Random Forest, and a Tkinter GUI.*  
+### 04 — Dakiy CRM
+**The software behind day-to-day operations.**
 
-🔹 **[Morocco Tourism Analytics](https://github.com/6ym6n/morocco-tourism-analytics)**  
-*Scraped Reddit data to analyze tourism trends and sentiment for Morocco using NLP, pandas, and Streamlit.*  
+An internal platform bringing together prospects, sales pipelines, quotes, invoices, subscriptions, and related workflows.
 
-🔹 **[ML-AHP](https://github.com/6ym6n/ML-AHP)**  
-*Hybrid decision-making system combining Machine Learning & AHP for supplier selection optimization.*
+<br>
 
------
+### Other things I've worked on
 
-## 📜 Certifications
+Business websites, custom tools, integrations, scraping, data pipelines, dashboards, and automations. Different projects, different needs — often built end to end.
 
-- [Tools for Data Science – IBM](https://coursera.org/share/802afa88ad29bfd64268cf303727d5cb)  
-- [What is Data Science? – IBM](https://coursera.org/share/98f15e8ca427e3010e57228d9a1e7b62)
+<details>
+<summary><strong>Earlier data and AI projects</strong></summary>
 
------
+<br>
 
-## 🌐 Languages
+My background includes Data Science for Smart Manufacturing at ENSAM Meknès, along with work in applied machine learning and data systems.
 
-- **Arabic** – Native/Bilingual  
-- **French** – Fluent  
-- **English** – Fluent
+- [Digital twin for predictive maintenance](https://github.com/6ym6n/digital_twin) — sensor-driven diagnostics and generative AI.
+- [Biomedical knowledge graph](https://github.com/6ym6n/BIOMED_KG) — transforming biomedical text into connected, queryable information.
+- [Morocco tourism analytics](https://github.com/6ym6n/morocco-tourism-analytics) — analyzing tourism trends and sentiment.
+- [ML-AHP](https://github.com/6ym6n/ML-AHP) — decision support combining machine learning and multi-criteria analysis.
 
------
+</details>
 
-## 📊 GitHub Stats
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=6ym6n&show_icons=true&theme=radical" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ym6n&layout=compact&theme=radical" height="150"/>
-</p>
-
------
-
-## 📣 Connect with Me
-
-<p align="center">
-<a href="mailto:aymannaaimi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aymannaaimi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.kaggle.com/aymannaaimi">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-<a href="https://github.com/6ym6n">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <sub>AYMAN NAAIMI / 6YM6N</sub>
 </p>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ayman Naaimi</title>
+  <desc id="desc">Personal profile of Ayman Naaimi. Products, systems, and ideas brought to life.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#a4b2a5" stroke-width=".8"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#161b1a"/>
+      <stop offset="1" stop-color="#0b100e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1320" height="520" rx="12" fill="url(#panel)"/>
+  <rect width="1320" height="520" rx="12" fill="url(#grid)" opacity=".075"/>
+  <path d="M930 0V520" stroke="#29342f"/>
+  <circle cx="1130" cy="282" r="256" fill="none" stroke="#c7fb68" opacity=".2"/>
+  <circle cx="1130" cy="282" r="180" fill="none" stroke="#c7fb68" opacity=".3"/>
+  <circle cx="1130" cy="282" r="104" fill="none" stroke="#c7fb68" opacity=".45"/>
+  <path d="M1130 0V520M930 282H1320" stroke="#c7fb68" opacity=".2"/>
+  <circle cx="1130" cy="282" r="10" fill="#c7fb68"/>
+  <path d="M930 70h390" stroke="#29342f"/>
+  <rect x="61" y="51" width="9" height="9" rx="1" fill="#c7fb68"/>
+  <text x="82" y="60" fill="#edf2ec" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="4">6YM6N</text>
+  <text x="1270" y="59" fill="#9aaba0" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3" text-anchor="end">PERSONAL PROFILE</text>
+  <text x="52" y="240" fill="#f4f6ef" font-family="Arial,Helvetica,sans-serif" font-size="157" font-weight="800" letter-spacing="-8">AYMAN</text>
+  <text x="52" y="399" fill="#c7fb68" font-family="Arial,Helvetica,sans-serif" font-size="157" font-weight="800" letter-spacing="-9">NAAIMI.</text>
+  <path d="M62 441H860" stroke="#35463b"/>
+  <text x="61" y="475" fill="#a7b6aa" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.6">PRODUCTS. SYSTEMS. IDEAS BROUGHT TO LIFE.</text>
+</svg>
