@@ -1,84 +1,84 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hero.svg" alt="Ayman Naaimi — Give me the hard problem. I'll figure out the rest." width="100%" />
+</p>
 
-<sub>AYMAN NAAIMI</sub>
+<p align="center">
+  <a href="https://www.dakimmo.ma/">Something live</a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aymannaaimi/">Find me on LinkedIn</a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:aymannaaimi@gmail.com">Start a conversation</a>
+</p>
 
-# Give me the hard problem.
+<br>
 
-**In the age of AI, don't ask me about my stack.**  
-Tell me what you're trying to make possible.
+## The interesting part is figuring it out.
 
-*The tools change. The job doesn't: understand the problem, make the right decisions, and build something that works.*
+In the age of AI, the tools aren't the hard part. **Knowing what to build, finding a way through the complexity, and making it real is.**
 
-[**LinkedIn**](https://www.linkedin.com/in/aymannaaimi/) &nbsp;·&nbsp; [**Email me**](mailto:aymannaaimi@gmail.com) &nbsp;·&nbsp; [**Explore my work**](#things-ive-built)
+I'm Ayman. I like the problems that don't come with instructions: the ambitious idea, the messy operation, the product with too many moving parts.
 
-</div>
+I go wherever the problem takes me — from the first sketch and user experience to the systems behind it and the last detail before launch.
 
----
+**Less “what do you use?” More “can you make this happen?”**
 
-### I like problems that don't fit neatly into one job title.
+<br>
 
-An idea that needs to become a product. A business process held together by spreadsheets. A system that needs to talk to five other systems. An AI feature that's impressive in a demo but needs to work in real life.
+## Selected work
 
-I can work from the interface to the infrastructure, from the data to the product decisions. **I don't start with a favorite tool. I start with the problem.**
-
-<sub>PRODUCT THINKING · SOFTWARE · AI · DATA · AUTOMATION · DESIGN · INTEGRATIONS</sub>
-
----
-
-## Things I've built
-
-Not just experiments. Actual products, client systems, and plenty of work that lives in private repositories.
+*Some of my best work lives in private repositories. These are the stories, not the source code.*
 
 ### 01 / Dakimmo
-**Real estate software and the systems around it.**
+**Building around how real-estate businesses actually work.**
 
-Worked across the product ecosystem: web experiences, business workflows, supporting services, and document-generation tools.
+A real-estate software ecosystem spanning the public product experience, business workflows, supporting services, and document-generation tools.
 
-[**Visit Dakimmo ↗**](https://www.dakimmo.ma/)
+[See the live website](https://www.dakimmo.ma/)
 
 ### 02 / StudioCall
-**Making AI useful on the phone.**
+**What if phone calls could become intelligent workflows?**
 
-An AI voice-agent SaaS project exploring real phone-call workflows, PBX integrations, and the foundation for distributor and client experiences. **Currently in prototype development.**
+An AI voice-agent platform for business calling and telephony integrations. Built around the challenge of turning a compelling voice demo into a coherent product. *In prototype development.*
 
 ### 03 / K&A Member Portal
-**A proper platform for a business with real operational complexity.**
+**A complex client relationship, made simple to manage.**
 
-A private client-and-staff portal bringing together secure documents, property dossiers, access controls, invitations, and internal workflows.
+A private client-and-team platform for property dossiers, protected documents, permissions, invitations, and day-to-day operations.
 
 ### 04 / Dakiy CRM
-**The less glamorous software that businesses actually run on.**
+**The operational backbone behind the business.**
 
-An internal system for leads, sales pipelines, quotes, invoices, subscriptions, and operational workflows.
+An internal platform connecting leads, opportunities, quotes, invoicing, subscriptions, and the work in between.
 
-### 05 / Websites, automations, and everything in between
-Business websites, dashboards, integrations, scraping and data pipelines, internal tools, and workflow automations.
+### Beyond those four
+Websites. Internal products. Data-heavy workflows. Automation. Integrations. Unusual one-off problems that didn't fit into a ready-made product.
 
-Different industries. Different constraints. **Same approach: figure it out, make it work, improve it.**
+The point isn't the category. **It's taking ownership of the whole problem.**
 
----
+<br>
 
-## Before all that, I was building with data and AI.
+<details>
+<summary><strong>Earlier work: where my systems thinking came from</strong></summary>
 
-These are some of my public repositories:
+<br>
 
-- **[Digital Twin for Predictive Maintenance](https://github.com/6ym6n/digital_twin)** — sensor data, automated diagnostics, and generative AI.
-- **[Biomedical Knowledge Graph](https://github.com/6ym6n/BIOMED_KG)** — turning unstructured research text into a queryable graph.
-- **[Morocco Tourism Analytics](https://github.com/6ym6n/morocco-tourism-analytics)** — scraping, NLP, sentiment, and visualization.
-- **[ML-AHP](https://github.com/6ym6n/ML-AHP)** — machine learning meets decision optimization.
+Before focusing on commercial products, I worked extensively on applied AI and data problems:
 
-My background in **Data Science for Smart Manufacturing at ENSAM Meknès** shaped how I approach systems: understand the data, understand the constraints, and think beyond a single feature.
+- [Digital twin for predictive maintenance](https://github.com/6ym6n/digital_twin) — generating useful diagnostics from sensor data.
+- [Biomedical knowledge graph](https://github.com/6ym6n/BIOMED_KG) — turning unstructured research into connected information.
+- [Morocco tourism analytics](https://github.com/6ym6n/morocco-tourism-analytics) — uncovering patterns in messy, real-world data.
+- [ML-AHP](https://github.com/6ym6n/ML-AHP) — building decision support for complex tradeoffs.
+
+</details>
 
 ---
 
 <div align="center">
 
-### Have something complicated in mind?
+### Got a difficult one?
 
-**Show me the problem. We'll figure out the rest.**
+Tell me what you're trying to make happen.
 
-[**Let's talk on LinkedIn**](https://www.linkedin.com/in/aymannaaimi/) &nbsp;·&nbsp; [**Send an email**](mailto:aymannaaimi@gmail.com)
+**[Let's talk](mailto:aymannaaimi@gmail.com)** &nbsp;&nbsp; / &nbsp;&nbsp; **[LinkedIn](https://www.linkedin.com/in/aymannaaimi/)**
 
-<sub>Arabic · French · English</sub>
+<sub>AYMAN NAAIMI · 6YM6N</sub>
 
 </div>
