@@ -1,27 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 550" role="img" aria-labelledby="title desc">
-  <title id="title">Give me the hard problem.</title>
-  <desc id="desc">Ayman Naaimi. Give me the hard problem. I'll figure out the rest.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ayman Naaimi</title>
+  <desc id="desc">Personal profile of Ayman Naaimi. Products, systems, and ideas brought to life.</desc>
   <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#7c8580" stroke-width="1"/>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#a4b2a5" stroke-width=".8"/>
     </pattern>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#161b1a"/>
+      <stop offset="1" stop-color="#0b100e"/>
+    </linearGradient>
   </defs>
-  <rect width="1320" height="550" rx="16" fill="#101311"/>
-  <rect width="1320" height="550" rx="16" fill="url(#grid)" opacity=".095"/>
-  <g fill="none" stroke="#caff5a" opacity=".25">
-    <circle cx="1210" cy="441" r="230" stroke-width="1.5"/>
-    <circle cx="1210" cy="441" r="169"/>
-    <circle cx="1210" cy="441" r="112"/>
-    <path d="M1210 202V550M971 441H1320"/>
-  </g>
-  <rect x="56" y="46" width="9" height="9" rx="1" fill="#caff5a"/>
-  <text x="78" y="56" fill="#e9ede7" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="3">AYMAN NAAIMI</text>
-  <text x="1264" y="56" fill="#95a099" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3" text-anchor="end">6YM6N / INDEPENDENT BUILDER</text>
-  <path d="M56 80H1264" stroke="#38403a"/>
-  <text x="55" y="222" fill="#f1f4ed" font-family="Arial,Helvetica,sans-serif" font-size="122" font-weight="800" letter-spacing="-6">GIVE ME THE</text>
-  <rect x="53" y="247" width="1095" height="130" rx="4" fill="#caff5a"/>
-  <text x="66" y="350" fill="#101311" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="800" letter-spacing="-5.5">HARD PROBLEM.</text>
-  <path d="M56 446H886" stroke="#3c443e"/>
-  <text x="56" y="487" fill="#e9ede7" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" letter-spacing="1">I'LL FIGURE OUT THE REST.</text>
-  <text x="56" y="520" fill="#88958b" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.5">FROM THE FIRST QUESTION TO THE REAL THING.</text>
+  <rect width="1320" height="520" rx="12" fill="url(#panel)"/>
+  <rect width="1320" height="520" rx="12" fill="url(#grid)" opacity=".075"/>
+  <path d="M930 0V520" stroke="#29342f"/>
+  <circle cx="1130" cy="282" r="256" fill="none" stroke="#c7fb68" opacity=".2"/>
+  <circle cx="1130" cy="282" r="180" fill="none" stroke="#c7fb68" opacity=".3"/>
+  <circle cx="1130" cy="282" r="104" fill="none" stroke="#c7fb68" opacity=".45"/>
+  <path d="M1130 0V520M930 282H1320" stroke="#c7fb68" opacity=".2"/>
+  <circle cx="1130" cy="282" r="10" fill="#c7fb68"/>
+  <path d="M930 70h390" stroke="#29342f"/>
+  <rect x="61" y="51" width="9" height="9" rx="1" fill="#c7fb68"/>
+  <text x="82" y="60" fill="#edf2ec" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="4">6YM6N</text>
+  <text x="1270" y="59" fill="#9aaba0" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3" text-anchor="end">PERSONAL PROFILE</text>
+  <text x="52" y="240" fill="#f4f6ef" font-family="Arial,Helvetica,sans-serif" font-size="157" font-weight="800" letter-spacing="-8">AYMAN</text>
+  <text x="52" y="399" fill="#c7fb68" font-family="Arial,Helvetica,sans-serif" font-size="157" font-weight="800" letter-spacing="-9">NAAIMI.</text>
+  <path d="M62 441H860" stroke="#35463b"/>
+  <text x="61" y="475" fill="#a7b6aa" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.6">PRODUCTS. SYSTEMS. IDEAS BROUGHT TO LIFE.</text>
 </svg>
